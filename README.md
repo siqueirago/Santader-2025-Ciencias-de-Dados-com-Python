@@ -21,7 +21,7 @@ O programa é uma jornada completa para formação em Ciência de Dados, combina
 
 ## 🤝 Conecte-se comigo
 
-👤 **LinkedIn:** *adicione seu link aqui*  
+👤 **LinkedIn:** *adicione*  
 ✉️ **Email:** *adicione seu email aqui*
 
 ---
